@@ -229,7 +229,6 @@ def create_customer_segmentation(df):
 
 import zipfile
 import os
-import pandas as pd
 
 def extract_zip_to_csv(zip_file_path, extract_folder):
     with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
