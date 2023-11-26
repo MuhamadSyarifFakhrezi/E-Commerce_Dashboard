@@ -5,7 +5,7 @@ Dashboard analisis data E-Commerce. Menggunakan bahasa pemrograman Python dan di
 ```
 conda create --name main-ds python=3.10.13
 conda activate main-ds
-pip install numpy pandas matplotlib seaborn jupyter streamlit babel
+pip install numpy pandas matplotlib seaborn jupyter streamlit babel pillow
 ```
 
 ## Run steamlit app
