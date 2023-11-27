@@ -13,7 +13,7 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit babel pillow
 streamlit run e-commerce_dashboard.py
 ```
 # Link Dashboard
-[Link](https://e-commercedashboard.streamlit.app)
+[e-commerce_dashboard](https://e-commercedashboard.streamlit.app)
 
 # Screanshoot Dashboard
-![image](https://github.com/MuhamadSyarifFakhrezi/E-Commerce_Dashboard/assets/142317741/407072e9-3114-47c0-85fa-0f398d038ea3)
+![image](https://github.com/MuhamadSyarifFakhrezi/E-Commerce_Dashboard/assets/142317741/adaffe22-1e7d-4c79-b73e-2c3b44e741c6)
